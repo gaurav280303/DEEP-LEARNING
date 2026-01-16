@@ -1,2 +1,2 @@
 # DEEP-LEARNING
-THis repository is all about deep learning concepts, codes, in detail notes,  frameworks, projects, and much more.
+This repository consist of all  deep  learning study materials, notes and code files in structured and well organised format with in depth explanation.
